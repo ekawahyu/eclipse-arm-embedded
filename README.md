@@ -19,6 +19,7 @@ Developing ARM Embedded on a Virtual Machine
 --------------------------------------------
 
 You may wonder why you should be developing an ARM embedded application on a virtual machine instead of doing it natively. The use of a virtual machine simplifies thing, especially if you:
+
 1. Are beginners to ARM Cortex-M/R open source development environment.
 2. Are not willing to spend too much time in building the toolchains from source.
 3. Want to work on multiple platform Windows, Linux and Mac.
